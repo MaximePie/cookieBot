@@ -25,4 +25,3 @@ npm run dev
 - [ ] +300 Allow to select a cat breed
 - [ ] +500 Create a pagination to display more cats
 - [ ] +500 garder les filtres en mémoire pour les réutiliser au rechargement de la page
-- [ ] +1000 Create 2 galleries, one for images and one for gifs
